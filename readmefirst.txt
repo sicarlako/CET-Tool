@@ -18,9 +18,10 @@ Teachers can also use this as well if they can apply it to their need
 ================================================================================
 
 Info:
--Rename the main.txt and upg.txt files to main.exe and upg.exe
 -Try it on the ACET reviewer
 -Keep main.exe in a folder, it creates files around it
+-The input box for the answer key is highly sensitive, start from the top part and
+ just paste
 -Use X for both the answer key and answer sheet for bonuses
 -You can use lowercase to answer if you like
 -When you create a new answer sheet it deletes everything previously in the file,
