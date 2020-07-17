@@ -20,12 +20,13 @@ Teachers can also use this as well if they can apply it to their need
 Info:
 -Try it on the ACET reviewer
 -Keep main.exe in a folder, it creates files around it
--The input box for the answer key is highly sensitive, start from the top part and
- just paste
+-The input box for the answer key is highly sensitive, remove everything, start 
+ from the top part and just paste
 -Use X for both the answer key and answer sheet for bonuses
 -You can use lowercase to answer if you like
 -When you create a new answer sheet it deletes everything previously in the file,
  just create a copy of it if you want to save it
+-Kinda slow the first time you open it
 -No it's not a virus, it doesn't have permission on anything secure. Your 
  anti-virus is freaking out because it's from an unknown source. I don't even 
  know how networks work
